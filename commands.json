@@ -1,0 +1,9 @@
+{
+	"commands": [
+		{
+			"aliases": [ "ign" ],
+			"message": "Mein IGN: GMasterHD",
+			"cooldown": 5000
+		}
+	]
+}

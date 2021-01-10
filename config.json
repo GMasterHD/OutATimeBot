@@ -1,5 +1,6 @@
 {
 	"npc_prices": {
 		"mutant_nether_wart": 76800
-	}
+	},
+	"commandPrefix": "!"
 }
